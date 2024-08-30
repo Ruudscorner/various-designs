@@ -1,6 +1,9 @@
 # Various Designs
 Various small designs and home improvements.
 
+## Filament Oozing Remover
+A simple tool for removing filament that is oozing from the very hot extruder.
+
 ## Electrical Box Spacers
 This is the first design in this repository.
 
